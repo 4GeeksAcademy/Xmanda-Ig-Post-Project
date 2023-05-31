@@ -1,0 +1,95 @@
+
+.head-post {
+    height: 10%;   
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;   }
+
+div.head-text{
+    padding-left: 10px;
+
+}
+
+ .fa-html5:before {
+   content: "\f13b";
+   font-size: xx-large;
+    }
+
+h1 {
+    display: flex;
+    width:100% ;
+    font-size: 15px;
+    margin: 0px
+}
+p {
+    width:100% ;
+    font-size: 15px;
+    margin: 0px
+}
+
+#menu-icon {
+    padding-left: 320px;
+    font-size: x-large;
+    display: inline-block;
+
+}
+
+img{
+    width:100%
+}
+
+div.big-box{
+    height: 600px;
+    width: 450px;
+    margin: 50px auto; 
+    background-color: white;
+    }
+
+.photo-post {
+    height: 100%;
+    width: 100%
+
+}
+.icons-box{
+    width: 420px;
+    height: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+/* icons behave like fonts */
+#left-icons{
+    font-size: 28px;
+    width:100px;
+    display:flex;
+    letter-spacing: 8px;
+}
+#right-icon{
+    position: relative;
+    left: 285px;
+}
+#likes-text{
+    font-size: 50px;
+    width: 420px;
+    margin: 15px;
+}
+.description-box {
+    margin: 15px;
+    padding-right:3px;
+    text-align: left;
+}
+
+/* general */
+    html {
+        background-color: rgb(0, 0, 0);
+        font-family: 'Roboto', sans-serif;
+       }
+    
+body {
+    margin: 0px;
+}
+/* divs outline *//*
+div {
+    outline: 2px dashed red
+  }
